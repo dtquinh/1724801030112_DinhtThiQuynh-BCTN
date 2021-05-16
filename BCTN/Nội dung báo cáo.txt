@@ -1,0 +1,12 @@
+Đề tài: Xây dựng website bán quần áo cho cửa hàng FM Closet
+SVTH: Đinh Thị Quỳnh
+Lớp: D17PM02
+GVHD: TH.S Nguyễn Hữu Vĩnh
+
+Website cung cấp các sản phẩm thời trang dành cho phụ nữ và những bạn gái có phong cách thời trang trẻ trung
+Chức năng chính: 
+	- Xem và đặt mua sản phẩm có trên website
+	- Tìm kiếm sản phẩm
+	- Sắp xếp sản phẩm theo giá hoặc tên
+	- Quản lý: thêm, xóa sửa sản phẩm/danh mục sản phẩm/ thương hiệu (đối với admin)
+	- Quản lý đơn hàng
